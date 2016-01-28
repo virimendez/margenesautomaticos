@@ -1,0 +1,16 @@
+div{
+	border: 10px solid  yellow;
+	width: 250px;
+	height: 200px;
+	padding: 5px;
+    margin:10px;
+}
+
+p{
+  margin:20px 20px 20px 20px;
+}
+	
+.div2{
+  margin-left:400px;
+
+}
